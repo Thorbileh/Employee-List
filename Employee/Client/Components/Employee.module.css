@@ -1,0 +1,199 @@
+.body{
+    position: relative;
+    width: 1439px;
+    height: 1171px;
+  
+    background: #969495;
+  }
+  .header2{
+    width: 1296px;
+    height: 152px;
+    margin-top: -10px;
+  
+    background: #C1C1C1;
+  }
+  .main{
+    text-align: center;
+    width: 1297px;
+  height: 1100px;
+  left: 50px;
+  top: 217px;
+  margin-left: 20%;
+  background: rgba(255, 250, 250, 0.85);
+  opacity: 0.85;
+  }
+  button:hover{
+    background-color: grey;
+  }
+  /*New flex*/
+  .container {
+    display: flex;
+    float: left;
+    overflow-wrap: break-word;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+    
+  
+    margin: 20px;
+   
+    font-size: 30px;
+    margin-left: 250;
+    border-radius: 5px;
+    margin-top: -10px;
+  }
+  .flex_item {
+    margin-top: 5px;
+    background: linear-gradient(180deg, #7CAC97 0%, #FFFFFF 100%);
+    border-radius: 5px;
+    padding:10px;
+  }
+  img {
+    margin-left: 10px;
+    border-radius:50%;
+    width: 217px;
+    height: 200px;
+    left: 85px;
+    top: 329px;
+  }
+  .flex_item button{
+    width: 91px;
+    height: 36px;
+    margin-top: -300%;
+  
+  background: #7CAC97;
+    border-radius: 30px;
+  border: none;
+  
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  }
+  .flex_item p{
+    width: 200px;
+    height: 44px;
+     
+    margin-left: -10px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+  
+    color: #000000;
+  }
+  .f1{
+     
+      background: url("images/1543383692616.jpg");
+      background-size: contain;
+  }
+  .f2{
+    background: url("images/1541524360231.jpg");
+    background-size: cover;
+}
+.f3{
+    background: url("images/IMG-20190606-WA0001.jpg");
+    background-size: cover;
+}
+.f4{
+    background: url("images/IMG-20220218-WA0032.jpg");
+    background-size: cover;
+}
+.f5{
+    background: url("images/IMG-20200317-WA0023.jpg");
+    background-size: cover;
+}
+.f6{
+    background: url("images/Screenshot_20220522-192637-1.jpg");
+    background-size: contain;
+}
+.f7{
+    background: url("images/IMG-20220317-WA0013.jpg");
+    background-size: cover;
+}
+.f8{
+    background: url("images/fiso.jpg");
+    background-size: cover;
+}
+
+  .flex_item .h5{
+  
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 29px;
+      margin-top: -3%;
+      color: #000000;
+  }
+  .h3{
+    width: 475px;
+  height: 58px;
+  
+  margin-left: 20%;
+  margin-top: -10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  
+  color: #043C23;
+  text-align: center;
+  }
+  .buttons{
+    margin-left: 250px;
+    margin-top: 70px;
+  }
+  a{
+    color: #7CAC97;
+    text-decoration: none;
+  }
+  .logout{
+    width: 135px;
+    height: 50px;
+    
+  
+    background: #FFFFFF;
+    border: 2px solid #7CAC97;
+    border-radius: 40px;
+  
+ 
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #7CAC97;
+  
+  
+    
+  }
+  .add
+  {
+    width: 135px;
+    height: 50px;
+    
+  
+    background: #FFFFFF;
+    border: 2px solid #7CAC97;
+    border-radius: 40px;
+  
+ 
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #7CAC97;
+ 
+  }
+  

@@ -1,0 +1,225 @@
+.body{
+    position: static;
+  background-image: url("images/body.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  }
+  .main{
+    background-image: url("images/land.png");
+    text-align: center;
+    position: relative;
+  width: 1520px;
+  height: 854px;
+  left: 66px;
+  top: 77px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+  }
+  header{
+    
+      display: flex;
+      position: relative;
+      padding-top: 50px;
+    
+  }
+  .all{
+    display: flex;
+    position: relative;
+    padding-top: 50px;
+  }
+  
+  .buttons{
+    position: absolute;
+    right: 10%;
+    margin-top: 10px;
+  }
+  
+  a{
+    text-decoration: none;
+  
+  }
+  
+  .h3{
+    width: 290px;
+  height: 56px;
+  margin-left: 65%;
+  margin-top: 5%;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  
+  color: #7CAC97;
+  }
+  .p5{
+    width: 413px;
+  height: 135px;
+  margin-left: 30px;
+  margin-top: -10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  
+  color: #7CAC97;
+  }
+  .h2{
+    width: 333px;
+  height: 116px;
+  margin-top: 10%;
+  margin-left: 2%;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  
+  color: #7CAC97;
+  }
+  .home{
+    width: 57px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin-left:15%;
+  color: #A1C7B6;
+  }
+  .about{
+    width: 58px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #A1C7B6;
+  }
+  .log{
+    
+    color: #FFFFFF;
+    
+  }
+  .login{
+    width: 70px;
+    height: 24px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    
+    width: 108px;
+    height: 30px;
+    background: #A1C7B6;
+    border: 1px solid #A1C7B6;
+    border-radius: 30px;
+  }
+  .reg{
+    width: 70px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #A1C7B6;
+  
+  }
+  .register{
+    width: 70px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #A1C7B6;
+  width: 108px;
+  height: 30px;
+  background: #FFFFFF;
+  border: 1px solid #A1C7B6;
+  border-radius: 30px;
+  }
+  button:hover{
+    background-color: grey;
+  }
+  .contact{
+  
+    width: 70px;
+    height: 24px;
+    left: 150px;
+    top: 800px;
+    margin-top: -10%;
+    margin-left: -70%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #ffffff;
+    width: 108px;
+    height: 30px;
+    background: #A1C7B6;
+    border: 1px solid #A1C7B6;
+    border-radius: 30px;
+  }
+  .con{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #ffffff;
+  
+  }
+  .learn{
+    width: 70px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #A1C7B6;
+  
+  }
+  .more{
+    width: 70px;
+  height: 24px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #A1C7B6;
+  width: 108px;
+  height: 30px;
+  background: #FFFFFF;
+  border: 1px solid #A1C7B6;
+  border-radius: 30px;
+  }
+  
+
+  
